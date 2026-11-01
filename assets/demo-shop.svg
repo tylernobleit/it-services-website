@@ -1,0 +1,47 @@
+<svg viewBox="0 0 600 430" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="Demo: online shop website">
+  <defs>
+    <linearGradient id="shopHero" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#16a085"/><stop offset="1" stop-color="#0e7c66"/></linearGradient>
+  </defs>
+  <rect width="600" height="430" rx="8" fill="#f7f8fa"/>
+  <rect width="600" height="30" fill="#e7eaef"/>
+  <circle cx="18" cy="15" r="4.5" fill="#ff5f57"/><circle cx="34" cy="15" r="4.5" fill="#febc2e"/><circle cx="50" cy="15" r="4.5" fill="#28c840"/>
+  <rect x="70" y="8" width="500" height="14" rx="7" fill="#ffffff"/>
+  <text x="80" y="18" font-size="8" fill="#9aa4b2">coastalthreads.com</text>
+  <!-- nav -->
+  <rect x="0" y="30" width="600" height="40" fill="#ffffff"/>
+  <text x="28" y="54" font-size="15" font-weight="800" fill="#13343b" letter-spacing="1">COASTAL THREADS</text>
+  <text x="338" y="54" font-size="9" fill="#5a6573">Shop</text><text x="380" y="54" font-size="9" fill="#16a085" font-weight="700">Sale</text><text x="420" y="54" font-size="9" fill="#5a6573">About</text>
+  <circle cx="500" cy="50" r="9" fill="none" stroke="#5a6573" stroke-width="1.5"/><text x="500" y="54" font-size="9" fill="#5a6573" text-anchor="middle">♡</text>
+  <circle cx="540" cy="50" r="11" fill="#16a085"/><text x="540" y="54" font-size="11" fill="#fff" text-anchor="middle">🛒</text>
+  <!-- hero banner -->
+  <rect x="0" y="70" width="600" height="86" fill="url(#shopHero)"/>
+  <text x="34" y="104" font-size="11" fill="#a9f0e0" letter-spacing="2" font-weight="700">SUMMER COLLECTION</text>
+  <text x="34" y="132" font-size="23" font-weight="800" fill="#ffffff">Up to 30% Off — Today Only</text>
+  <rect x="450" y="104" width="116" height="34" rx="6" fill="#ffce3a"/><text x="508" y="126" font-size="12" font-weight="800" fill="#13343b" text-anchor="middle">Shop the Sale</text>
+  <!-- product grid -->
+  <text x="34" y="184" font-size="13" font-weight="800" fill="#13343b">Best Sellers</text>
+  <g>
+    <rect x="34" y="196" width="170" height="196" rx="8" fill="#ffffff" stroke="#e7eaef"/>
+    <rect x="215" y="196" width="170" height="196" rx="8" fill="#ffffff" stroke="#e7eaef"/>
+    <rect x="396" y="196" width="170" height="196" rx="8" fill="#ffffff" stroke="#e7eaef"/>
+    <rect x="34" y="196" width="170" height="104" rx="8" fill="#e9eef0"/>
+    <rect x="215" y="196" width="170" height="104" rx="8" fill="#e4eef0"/>
+    <rect x="396" y="196" width="170" height="104" rx="8" fill="#eeeae4"/>
+    <rect x="86" y="216" width="66" height="66" rx="6" fill="#bcd0cf"/>
+    <rect x="267" y="216" width="66" height="66" rx="6" fill="#aebfca"/>
+    <rect x="448" y="216" width="66" height="66" rx="6" fill="#d7c3a8"/>
+    <rect x="44" y="206" width="42" height="16" rx="8" fill="#ff5d5d"/><text x="65" y="218" font-size="8" font-weight="700" fill="#fff" text-anchor="middle">-30%</text>
+    <text x="48" y="322" font-size="11" font-weight="700" fill="#13343b">Linen Beach Shirt</text>
+    <text x="229" y="322" font-size="11" font-weight="700" fill="#13343b">Canvas Tote Bag</text>
+    <text x="410" y="322" font-size="11" font-weight="700" fill="#13343b">Sunset Tee</text>
+    <text x="48" y="338" font-size="9" fill="#ffb800">★★★★★</text><text x="100" y="338" font-size="8" fill="#9aa4b2">(128)</text>
+    <text x="229" y="338" font-size="9" fill="#ffb800">★★★★★</text><text x="281" y="338" font-size="8" fill="#9aa4b2">(86)</text>
+    <text x="410" y="338" font-size="9" fill="#ffb800">★★★★☆</text><text x="462" y="338" font-size="8" fill="#9aa4b2">(54)</text>
+    <text x="48" y="360" font-size="13" font-weight="800" fill="#16a085">$33.60</text><text x="98" y="360" font-size="9" fill="#9aa4b2" text-decoration="line-through">$48</text>
+    <text x="229" y="360" font-size="13" font-weight="800" fill="#16a085">$24</text>
+    <text x="410" y="360" font-size="13" font-weight="800" fill="#16a085">$19</text>
+    <rect x="48" y="368" width="142" height="20" rx="10" fill="#13343b"/><text x="119" y="382" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">Add to Cart</text>
+    <rect x="229" y="368" width="142" height="20" rx="10" fill="#13343b"/><text x="300" y="382" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">Add to Cart</text>
+    <rect x="410" y="368" width="142" height="20" rx="10" fill="#13343b"/><text x="481" y="382" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">Add to Cart</text>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg viewBox="0 0 600 430" xmlns="http://www.w3.org/2000/svg" font-family="'Helvetica Neue', Arial, sans-serif" role="img" aria-label="Demo: beauty salon website">
+  <defs><linearGradient id="salHero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e7c9c0"/><stop offset="1" stop-color="#d9a6a0"/></linearGradient></defs>
+  <rect width="600" height="430" rx="8" fill="#fdf7f4"/>
+  <rect width="600" height="30" fill="#efe6e2"/>
+  <circle cx="18" cy="15" r="4.5" fill="#ff5f57"/><circle cx="34" cy="15" r="4.5" fill="#febc2e"/><circle cx="50" cy="15" r="4.5" fill="#28c840"/>
+  <rect x="70" y="8" width="500" height="14" rx="7" fill="#ffffff"/>
+  <text x="80" y="18" font-size="8" fill="#b9a7a0">luxebeautybar.com</text>
+  <!-- nav -->
+  <rect x="0" y="30" width="600" height="40" fill="#fdf7f4"/>
+  <text x="28" y="55" font-size="16" fill="#a4685f" font-family="Georgia, serif" font-style="italic" letter-spacing="1">Luxe Beauty Bar</text>
+  <text x="338" y="54" font-size="9" fill="#8a726b">Services</text><text x="394" y="54" font-size="9" fill="#8a726b">Gallery</text><text x="444" y="54" font-size="9" fill="#8a726b">Team</text>
+  <rect x="490" y="42" width="88" height="22" rx="11" fill="#a4685f"/><text x="534" y="56" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">Book Now</text>
+  <!-- hero -->
+  <rect x="0" y="70" width="600" height="160" fill="url(#salHero)"/>
+  <circle cx="480" cy="150" r="86" fill="#ffffff" opacity="0.25"/>
+  <text x="40" y="118" font-size="10" fill="#7a4a44" letter-spacing="4" font-weight="700">CLEARWATER · SINCE 2012</text>
+  <text x="40" y="156" font-size="28" fill="#5a322d" font-family="Georgia, serif">Look Good,</text>
+  <text x="40" y="190" font-size="28" fill="#ffffff" font-family="Georgia, serif" font-style="italic">Feel Beautiful</text>
+  <rect x="40" y="204" width="150" height="28" rx="14" fill="#5a322d"/><text x="115" y="222" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">Book Appointment</text>
+  <!-- services + prices -->
+  <text x="300" y="258" font-size="14" fill="#a4685f" font-family="Georgia, serif" text-anchor="middle">Our Services</text>
+  <g>
+    <line x1="40" y1="276" x2="560" y2="276" stroke="#eaddd7"/>
+    <text x="40" y="296" font-size="12" font-weight="600" fill="#5a322d">Cut &amp; Style</text><text x="40" y="310" font-size="8.5" fill="#a08c85">Wash, cut &amp; blow-dry</text>
+    <text x="560" y="300" font-size="13" font-weight="700" fill="#a4685f" text-anchor="end">$55</text>
+    <line x1="40" y1="322" x2="560" y2="322" stroke="#eaddd7"/>
+    <text x="40" y="342" font-size="12" font-weight="600" fill="#5a322d">Color &amp; Highlights</text><text x="40" y="356" font-size="8.5" fill="#a08c85">Full color or balayage</text>
+    <text x="560" y="346" font-size="13" font-weight="700" fill="#a4685f" text-anchor="end">$120</text>
+    <line x1="40" y1="368" x2="560" y2="368" stroke="#eaddd7"/>
+    <text x="40" y="388" font-size="12" font-weight="600" fill="#5a322d">Manicure &amp; Pedicure</text><text x="40" y="402" font-size="8.5" fill="#a08c85">Gel or classic</text>
+    <text x="560" y="392" font-size="13" font-weight="700" fill="#a4685f" text-anchor="end">$65</text>
+  </g>
+</svg>

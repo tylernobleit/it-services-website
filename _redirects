@@ -1,0 +1,7 @@
+/status.html / 301
+/status /  301
+/tampa-bay.html / 301
+/tampa-bay / 301
+/!doctype.html / 301
+/review https://example.com/review 302
+/review/ https://example.com/review 302

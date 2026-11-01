@@ -1,0 +1,45 @@
+<svg viewBox="0 0 600 430" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="Demo: local service business website">
+  <defs>
+    <linearGradient id="svcHero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3d66"/><stop offset="1" stop-color="#1572b8"/></linearGradient>
+  </defs>
+  <rect width="600" height="430" rx="8" fill="#ffffff"/>
+  <!-- browser bar -->
+  <rect width="600" height="30" fill="#e7eaef"/>
+  <circle cx="18" cy="15" r="4.5" fill="#ff5f57"/><circle cx="34" cy="15" r="4.5" fill="#febc2e"/><circle cx="50" cy="15" r="4.5" fill="#28c840"/>
+  <rect x="70" y="8" width="500" height="14" rx="7" fill="#ffffff"/>
+  <text x="80" y="18" font-size="8" fill="#9aa4b2">baysideplumbing.com</text>
+  <!-- nav -->
+  <rect x="0" y="30" width="600" height="40" fill="#ffffff"/>
+  <circle cx="26" cy="50" r="9" fill="#1572b8"/><path d="M26 44c3 4 4 6 4 8a4 4 0 0 1-8 0c0-2 1-4 4-8z" fill="#fff"/>
+  <text x="42" y="54" font-size="14" font-weight="700" fill="#0b3d66">BAYSIDE</text><text x="118" y="54" font-size="14" font-weight="400" fill="#1572b8">PLUMBING</text>
+  <text x="330" y="54" font-size="9" fill="#5a6573">Services</text><text x="388" y="54" font-size="9" fill="#5a6573">About</text><text x="432" y="54" font-size="9" fill="#5a6573">Reviews</text>
+  <rect x="486" y="40" width="92" height="22" rx="11" fill="#ff8a00"/><text x="532" y="54" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">Call Now</text>
+  <!-- hero -->
+  <rect x="0" y="70" width="600" height="178" fill="url(#svcHero)"/>
+  <circle cx="470" cy="158" r="120" fill="#ffffff" opacity="0.05"/>
+  <text x="40" y="116" font-size="13" font-weight="700" fill="#7fd3ff" letter-spacing="2">24/7 EMERGENCY SERVICE</text>
+  <text x="40" y="150" font-size="27" font-weight="800" fill="#ffffff">Fast, Reliable Plumbing</text>
+  <text x="40" y="182" font-size="27" font-weight="800" fill="#ffd24a">Done Right.</text>
+  <text x="40" y="208" font-size="11" fill="#cfe4f5">Licensed &amp; insured local plumbers serving Example County.</text>
+  <rect x="40" y="222" width="150" height="30" rx="6" fill="#ff8a00"/><text x="115" y="242" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">Get a Free Estimate</text>
+  <text x="210" y="242" font-size="11" fill="#ffd24a">★★★★★</text><text x="270" y="242" font-size="10" fill="#cfe4f5">4.9 · 320 reviews</text>
+  <!-- services -->
+  <text x="300" y="280" font-size="14" font-weight="800" fill="#0b3d66" text-anchor="middle">Our Services</text>
+  <g>
+    <rect x="40" y="296" width="166" height="116" rx="8" fill="#f4f7fb" stroke="#e1e8f0"/>
+    <rect x="217" y="296" width="166" height="116" rx="8" fill="#f4f7fb" stroke="#e1e8f0"/>
+    <rect x="394" y="296" width="166" height="116" rx="8" fill="#f4f7fb" stroke="#e1e8f0"/>
+    <circle cx="66" cy="324" r="14" fill="#1572b8" opacity="0.15"/><text x="66" y="329" font-size="14" text-anchor="middle">🚿</text>
+    <circle cx="243" cy="324" r="14" fill="#1572b8" opacity="0.15"/><text x="243" y="329" font-size="14" text-anchor="middle">🔥</text>
+    <circle cx="420" cy="324" r="14" fill="#1572b8" opacity="0.15"/><text x="420" y="329" font-size="14" text-anchor="middle">💧</text>
+    <text x="56" y="360" font-size="11" font-weight="700" fill="#0b3d66">Drain Cleaning</text>
+    <text x="233" y="360" font-size="11" font-weight="700" fill="#0b3d66">Water Heaters</text>
+    <text x="410" y="360" font-size="11" font-weight="700" fill="#0b3d66">Leak Detection</text>
+    <text x="56" y="378" font-size="8.5" fill="#6b7686">Clogs cleared fast with</text><text x="56" y="390" font-size="8.5" fill="#6b7686">no mess left behind.</text>
+    <text x="233" y="378" font-size="8.5" fill="#6b7686">Repair, install &amp; tankless</text><text x="233" y="390" font-size="8.5" fill="#6b7686">upgrades.</text>
+    <text x="410" y="378" font-size="8.5" fill="#6b7686">Find &amp; fix hidden leaks</text><text x="410" y="390" font-size="8.5" fill="#6b7686">before they spread.</text>
+    <text x="56" y="404" font-size="8.5" font-weight="700" fill="#ff8a00">Learn more →</text>
+    <text x="233" y="404" font-size="8.5" font-weight="700" fill="#ff8a00">Learn more →</text>
+    <text x="410" y="404" font-size="8.5" font-weight="700" fill="#ff8a00">Learn more →</text>
+  </g>
+</svg>

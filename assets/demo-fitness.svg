@@ -1,0 +1,41 @@
+<svg viewBox="0 0 600 430" xmlns="http://www.w3.org/2000/svg" font-family="'Arial Black', Arial, sans-serif" role="img" aria-label="Demo: fitness gym website">
+  <defs><linearGradient id="fitHero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0f12"/><stop offset="1" stop-color="#1c1f26"/></linearGradient></defs>
+  <rect width="600" height="430" rx="8" fill="#0d0f12"/>
+  <rect width="600" height="30" fill="#1c1f26"/>
+  <circle cx="18" cy="15" r="4.5" fill="#ff5f57"/><circle cx="34" cy="15" r="4.5" fill="#febc2e"/><circle cx="50" cy="15" r="4.5" fill="#28c840"/>
+  <rect x="70" y="8" width="500" height="14" rx="7" fill="#0d0f12"/>
+  <text x="80" y="18" font-size="8" fill="#6b7686" font-family="Arial, sans-serif">ironcladfitness.com</text>
+  <!-- nav -->
+  <rect x="0" y="30" width="600" height="40" fill="#15171c"/>
+  <text x="28" y="55" font-size="15" font-weight="900" fill="#ffffff" font-style="italic">IRON<tspan fill="#c6ff00">CLAD</tspan></text>
+  <text x="330" y="54" font-size="9" fill="#9aa4b2" font-family="Arial, sans-serif">Classes</text><text x="392" y="54" font-size="9" fill="#9aa4b2" font-family="Arial, sans-serif">Trainers</text><text x="448" y="54" font-size="9" fill="#9aa4b2" font-family="Arial, sans-serif">Pricing</text>
+  <rect x="508" y="42" width="70" height="22" rx="3" fill="#c6ff00"/><text x="543" y="56" font-size="9" font-weight="900" fill="#0d0f12" text-anchor="middle" font-family="Arial, sans-serif">JOIN NOW</text>
+  <!-- hero -->
+  <rect x="0" y="70" width="600" height="172" fill="url(#fitHero)"/>
+  <text x="34" y="120" font-size="11" fill="#c6ff00" letter-spacing="4" font-family="Arial, sans-serif" font-weight="700">NO EXCUSES. NO LIMITS.</text>
+  <text x="34" y="158" font-size="34" font-weight="900" fill="#ffffff" font-style="italic">TRANSFORM</text>
+  <text x="34" y="194" font-size="34" font-weight="900" fill="#c6ff00" font-style="italic">YOUR BODY</text>
+  <rect x="34" y="210" width="160" height="26" rx="3" fill="#c6ff00"/><text x="114" y="228" font-size="11" font-weight="900" fill="#0d0f12" text-anchor="middle" font-family="Arial, sans-serif">START FREE TRIAL →</text>
+  <text x="210" y="228" font-size="10" fill="#9aa4b2" font-family="Arial, sans-serif">7 days · no card</text>
+  <!-- classes -->
+  <text x="34" y="272" font-size="14" font-weight="900" fill="#ffffff" font-family="Arial, sans-serif">CLASS SCHEDULE</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="34" y="284" width="166" height="128" rx="6" fill="#15171c" stroke="#262a31"/>
+    <rect x="217" y="284" width="166" height="128" rx="6" fill="#15171c" stroke="#262a31"/>
+    <rect x="394" y="284" width="166" height="128" rx="6" fill="#c6ff00"/>
+    <rect x="34" y="284" width="166" height="6" rx="3" fill="#c6ff00"/>
+    <rect x="217" y="284" width="166" height="6" rx="3" fill="#ff6a00"/>
+    <text x="50" y="320" font-size="13" font-weight="900" fill="#ffffff">STRENGTH</text>
+    <text x="233" y="320" font-size="13" font-weight="900" fill="#ffffff">HIIT BURN</text>
+    <text x="410" y="320" font-size="13" font-weight="900" fill="#0d0f12">SPIN</text>
+    <text x="50" y="344" font-size="9" fill="#9aa4b2">Mon · Wed · Fri</text>
+    <text x="233" y="344" font-size="9" fill="#9aa4b2">Tue · Thu</text>
+    <text x="410" y="344" font-size="9" fill="#3a4a00">Daily</text>
+    <text x="50" y="362" font-size="11" font-weight="700" fill="#c6ff00">6:00 AM</text>
+    <text x="233" y="362" font-size="11" font-weight="700" fill="#ff8a3a">5:30 PM</text>
+    <text x="410" y="362" font-size="11" font-weight="700" fill="#0d0f12">7:00 AM</text>
+    <rect x="50" y="376" width="134" height="22" rx="11" fill="#262a31"/><text x="117" y="390" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">Book a Spot</text>
+    <rect x="233" y="376" width="134" height="22" rx="11" fill="#262a31"/><text x="300" y="390" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">Book a Spot</text>
+    <rect x="410" y="376" width="134" height="22" rx="11" fill="#0d0f12"/><text x="477" y="390" font-size="9" font-weight="700" fill="#c6ff00" text-anchor="middle">Book a Spot</text>
+  </g>
+</svg>
